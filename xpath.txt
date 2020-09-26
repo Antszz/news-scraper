@@ -1,0 +1,4 @@
+Links = //h4[@class="LastNewsHeadline"]/a/@href
+Title = //h1[@class="DefaultTitle"]/text()
+Resume = //h2[@class="DefaultSubtitle"]/text()
+Body = //section/p/text()
